@@ -1,0 +1,40 @@
+This is the MSDS Quiz. Please write your name, and anwsers in this format
+1. G, 2. G...
+
+1. What does the acronym MSDS stand for?
+
+    A. Massive Safety Data Sheet
+    B. Material Security Data Sheet
+    C. Material Safety Data Sheet
+    D. Massive Security Data Sheet
+
+2. Which of the following can be found on a MSDS?
+
+    A. Spill and Leak Procedure
+    B. Health Hazard Information
+    C. Special Protection Information
+    D. All of the Above
+
+3. Section 2 of an MSDS will have information about _________.
+
+    A. The Manufacturer
+    B. Compostition
+    C. Hazardous Ingredients
+    D. All of the Above
+
+4. MSDS's must be readily available for employee/student review at all times the employee/student is in the workplace.
+
+    A. True
+    B. False
+
+
+
+5. What products need an MSDS available?
+
+    A. Chemicals
+    B. Tools
+    C. Adehsives
+    D. All of the Above
+
+_______________________________
+
